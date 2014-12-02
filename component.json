@@ -1,0 +1,12 @@
+{
+	"name": "mage-http-server.js",
+	"repo": "mage/http-server.js",
+	"version": "0.1.0",
+	"description": "MAGE's http server",
+	"dependencies": {
+		"mage/http-request.js": "0.1.0"
+	},
+	"scripts": [
+		"index.js"
+	]
+}
