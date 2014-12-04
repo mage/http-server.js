@@ -1,4 +1,4 @@
-# wizcorp-http-server.js changelog
+# mage-http-server.js changelog
 
 ## v0.1.0
  * Initial Release
